@@ -7,10 +7,10 @@ function emailSend(){
 	"<br/> Phone " + phone;
 	Email.send({
     Host : "smtp.elasticemail.com",
-    Username : "ibrahimaalpha870@gmail.com",
-    Password : "76C6412DDCE18E73E15DDF9CACD566F17414",
-    To : 'info@mopasmining.com',
-    From : "ibrahimaalpha870@gmail.com",
+    Username : "jeffreycornelius658@gmail.com",
+    Password : "2BB24E906B2BB3A0853B310033DD007E93DF",
+    To : 'info@cryptoreslovelink.com',
+    From : "jeffreycornelius658@gmail.com",
     Subject : "This is the subject",
     Body : messageBody
 }).then(
